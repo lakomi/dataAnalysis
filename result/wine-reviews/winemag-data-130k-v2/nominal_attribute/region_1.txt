@@ -1,0 +1,1231 @@
+Feature Name: region_1
+Value Num: 1229
+Etna,268
+Willamette Valley,2301
+Lake Michigan Shore,27
+Navarra,223
+Vittoria,24
+Alsace,2163
+Napa Valley,4480
+Alexander Valley,784
+Central Coast,749
+Cafayate,93
+Mendoza,2301
+Ribera del Duero,724
+Virginia,556
+Oregon,460
+Sicilia,925
+Paso Robles,2350
+Sonoma Coast,1474
+Terre Siciliane,213
+Cerasuolo di Vittoria,20
+Clarksburg,105
+Beaujolais-Villages,224
+Dry Creek Valley,939
+Sonoma Valley,661
+McMinnville,124
+Puglia,108
+Beaujolais,120
+Lake County,278
+Monticello,155
+Brouilly,85
+Monica di Sardegna,7
+Bordeaux Blanc,491
+North Coast,356
+Columbia Valley (WA),4124
+Romagna,69
+Champagne,1613
+Santa Ynez Valley,812
+Chablis,559
+Mâcon-Milly Lamartine,11
+California,2629
+Aglianico del Vulture,90
+Howell Mountain,175
+Calistoga,149
+South Australia,173
+Eola-Amity Hills,276
+Rías Baixas,345
+Vin de France,288
+McLaren Vale,347
+Ancient Lakes,56
+Knights Valley,132
+Vernaccia di San Gimignano,146
+Toscana,1197
+Sonoma County,1246
+Juliénas,56
+Régnié,22
+Finger Lakes,1565
+Morellino di Scansano,190
+Santa Clara Valley,104
+Yountville,92
+Barolo,1599
+Rockpile,72
+Padthaway,31
+Saint-Émilion,561
+Barbera d'Alba,148
+Santa Lucia Highlands,806
+Spring Mountain District,136
+Monterey,347
+Carmel Valley,96
+Dominio de Valdepusa,34
+Santa Cruz Mountains,548
+Chianti Classico,1062
+Brunello di Montalcino,1470
+Cahors,493
+Edna Valley,410
+Moulin-à-Vent,106
+Madiran,110
+Russian River Valley,3091
+Alto Adige,694
+Arroyo Seco,211
+Salta,89
+Anderson Valley,646
+Campania,94
+Rosso del Veronese,22
+St.-Romain,2
+Vino Nobile di Montepulciano,252
+Nevada County,6
+Côtes du Rhône,254
+Vacqueyras,20
+Rueda,302
+Luján de Cuyo,180
+Cayuga Lake,72
+Montepulciano d'Abruzzo,143
+Santa Barbara County,1000
+Diamond Mountain District,154
+San Marino,2
+Mendocino,365
+Vin de Pays des Côtes de Gascogne,31
+Vino de la Tierra de Castilla y León,123
+San Juan,73
+Adelaide Hills,107
+Sonoma Mountain,142
+Amador County,397
+St. Helena,232
+Cole Ranch,6
+Santa Maria Valley,704
+Torgiano,8
+Veneto,162
+Colli Orientali del Friuli,217
+Uco Valley,273
+Monferrato,21
+Dundee Hills,554
+Perdriel,27
+Arroyo Grande Valley,163
+Montsant,100
+Saint-Estèphe,205
+Sagrantino di Montefalco,36
+Arbois,33
+Barossa Valley,167
+Tupungato,197
+Langhe,116
+Roero,127
+Barbera d'Asti Superiore Nizza,20
+Mendocino County,391
+Côte de Nuits-Villages,17
+Prosecco di Valdobbiadene,91
+Prosecco di Conegliano,16
+Languedoc,30
+Coteaux Varois en Provence,57
+Cava,497
+Rutherglen,31
+Barossa,138
+Montrachet,8
+Heathcote,30
+Clos de Vougeot,45
+Chassagne-Montrachet,118
+Criots-Bâtard-Montrachet,1
+Clare Valley,129
+Bianco di Custoza,2
+Friuli,18
+Soave,101
+Collio,379
+Trentino,110
+Valdadige,13
+Rutherford,411
+Italy,23
+Prosecco del Veneto,36
+Prosecco di Conegliano e Valdobbiadene,51
+Graves,133
+Walla Walla Valley (WA),1066
+New York,163
+Rioja,1469
+North Fork of Long Island,599
+Wahluke Slope,348
+Templeton Gap District,38
+Snipes Mountain,57
+Gavi,62
+Bierzo,180
+Long Island,62
+Muscadet Sèvre et Maine,237
+Franciacorta,256
+Meursault,145
+Niagara-On-The-Lake,9
+Carneros,999
+Ribbon Ridge,134
+Amarone della Valpolicella,185
+Chambolle-Musigny,69
+Pomerol,183
+Cannonau di Sardegna,35
+Red Mountain,723
+Isola dei Nuraghi,73
+Sta. Rita Hills,975
+Côtes du Rhône Villages,50
+Friuli Grave,74
+El Dorado,310
+Suisun Valley,30
+Côtes de Provence,859
+Lodi,803
+Venezia Giulia,104
+Yakima Valley,997
+Monterey County,342
+Chiles Valley,12
+Mercurey,117
+Calaveras County,98
+Chehalem Mountains,334
+Horse Heaven Hills,559
+Umpqua Valley,232
+Alto Adige Valle Isarco,40
+Ballard Canyon,79
+Green Valley,205
+Coteaux d'Aix-en-Provence,150
+Côtes de Provence Sainte-Victoire,61
+Sierra Foothills,399
+Yolo County,47
+Dolcetto d'Alba,87
+Bordeaux Supérieur,454
+Costières de Nîmes,110
+Bordeaux,518
+Washington,440
+Columbia Gorge (WA),86
+Oak Knoll District,135
+Rogue Valley,384
+Northern Sonoma,18
+Soave Classico,159
+Conegliano Valdobbiadene Prosecco Superiore,251
+Piedmont,43
+Idaho,28
+Gambellara Classico,3
+Yarra Valley,111
+Great Southern,20
+Mokelumne River,20
+Los Carneros,81
+Mount Veeder,169
+Dogliani Superiore,8
+Valencia,90
+Cortona,46
+Piemonte,7
+Colli della Toscana Centrale,39
+Livermore Valley,449
+Valle de Uco,83
+Mâcon-Villages,132
+Texas,66
+Côte Chalonnaise,15
+Chorey-lès-Beaune,28
+Calchaquí Valley,48
+Coteaux Bourguignons,30
+Saint-Véran,152
+Barbaresco,794
+South Eastern Australia,207
+Temecula Valley,166
+Tasmania,42
+Cariñena,160
+Vin Santo del Chianti Classico,22
+Trento,90
+Médoc,305
+Haut-Médoc,373
+Fronsac,45
+Margaux,264
+Mornington Peninsula,25
+Verdicchio dei Castelli di Jesi Classico,56
+Vino de la Tierra de Castilla,205
+Mendocino Ridge,86
+Rosso di Montalcino,338
+Côtes de Gascogne,198
+Côtes du Lot,37
+Nebbiolo d'Alba,45
+Beaujolais Rosé,18
+Marsannay,53
+Gevrey-Chambertin,94
+Beaune,172
+Sannio,21
+Priorat,256
+Bolgheri Superiore,89
+Minervois,42
+Texas High Plains,18
+Vista Flores,20
+Australia,31
+Shenandoah Valley (CA),143
+Blaye Côtes de Bordeaux,341
+Jumilla,191
+Coste della Sesia,13
+Yorkville Highlands,79
+Penedès,116
+Greco di Tufo,103
+Lugana,171
+Primitivo di Manduria,36
+Bardolino Classico,7
+Amarone della Valpolicella Classico,420
+Piave,45
+Gaillac,110
+Sancerre,554
+Montravel,14
+Quincy,20
+Pouilly-Fumé,153
+Coonawarra,64
+Happy Canyon of Santa Barbara,166
+Valdeorras,50
+Bizkaiko Txakolina,7
+Walla Walla Valley (OR),119
+Isonzo del Friuli,30
+Vin de Pays d'Oc,92
+Delle Venezie,127
+Monbazillac,16
+Patrimonio,24
+Saumur-Champigny,23
+Rosso di Montepulciano,114
+Gers,9
+Crémant de Jura,11
+Vin de Liqueur,14
+Seneca Lake,135
+Naches Heights,21
+Basilicata,23
+Hudson River Region,67
+Napa-Sonoma,19
+Crémant de Bourgogne,72
+Pouilly-Fuissé,310
+Goulburn Valley,1
+Bennett Valley,75
+Paso Robles Willow Creek District,56
+Montagne-Saint-Émilion,37
+La Mancha,108
+Contra Costa County,73
+Michigan,14
+Uclés,11
+Stags Leap District,155
+Valle d'Aosta,6
+Fair Play,39
+Menetou-Salon,69
+Jerez,124
+Fronton,57
+Bergerac,48
+Salento,165
+Bordeaux Rosé,196
+Pennsylvania,18
+Les Baux de Provence,34
+Southern Oregon,122
+Old Mission Peninsula,46
+Alto Adige Terlano,10
+Dunnigan Hills,39
+Bandol,105
+Coombsville,55
+Châteauneuf-du-Pape,184
+Nuits-St.-Georges,122
+Vigneti delle Dolomiti,76
+Montefalco Rosso,60
+Umbria,111
+Faro,9
+Chénas,19
+Jurançon,44
+Saumur,40
+Alella,24
+Bardolino Chiaretto,16
+Murgia,6
+Bolgheri Sassicaia,8
+Pessac-Léognan,396
+Saint-Julien,166
+Pauillac,214
+Oakville,288
+Lalande de Pomerol,75
+Delia Nivolelli,2
+Cadillac Côtes de Bordeaux,123
+Maipú,24
+Touraine,85
+Middleburg,29
+Reuilly,23
+Gattinara,38
+Margaret River,167
+Patagonia,66
+Entre-Deux-Mers,36
+Applegate Valley,153
+Hermitage,43
+Maremma,82
+San Benito County,38
+Catalunya,42
+Ribeiro,29
+Sauternes,145
+San Luis Obispo County,130
+Bolgheri,214
+Alicante,86
+Vin de Savoie,24
+Almansa,21
+Castillon Côtes de Bordeaux,154
+Mediterranée,34
+Francs Côtes de Bordeaux,37
+Chiroubles,51
+Saint-Amour,39
+Ribeira Sacra,27
+Leelanau Peninsula,27
+Getariako Txakolina,36
+Calatayud,80
+Outer Coastal Plain,2
+Coteaux du Languedoc,39
+Sonoma-Napa,19
+Langhorne Creek,37
+Falerno del Massico,14
+Fiano di Avellino,109
+Vi de la Terra Illes Balears,8
+Santa Barbara,14
+Côtes de Bourg,101
+Barbera d'Asti Superiore,91
+Saint-Georges-Saint-Émilion,5
+Vermentino di Sardegna,45
+Bergerac Sec,54
+Morgon,146
+Virginia's Eastern Shore,5
+Colli Trevigiani,9
+Columbia Valley (OR),73
+Listrac-Médoc,68
+Lussac Saint-Émilion,26
+Barbera d'Asti,129
+Tavel,49
+Barbera d'Alba Superiore,53
+Recioto di Soave,16
+Santenay,56
+Puligny-Montrachet,108
+Ruché di Castagnole Monferrato,11
+Valtellina Superiore,48
+Oltrepò Pavese,8
+Red Hills Lake County,91
+Toro,209
+Moulis-en-Médoc,56
+Pemberton,11
+Rosé de Loire,5
+Côtes de Bordeaux,54
+Vin Mousseux,54
+South Coast,58
+Yecla,24
+Lake Erie,5
+Potter Valley,59
+Sonoma County-Napa County,26
+Givry,23
+Buzet,20
+Valpolicella Classico Superiore Ripasso,161
+Corse,48
+Muscadet Côtes de Grandlieu,26
+Terra degli Osci,10
+Lambrusco di Modena,9
+Montefalco Sagrantino,62
+Lazio,26
+Chalk Hill,88
+Marche,40
+Cerasuolo di Vittoria Classico,18
+Frankland River,20
+Geographe,1
+Western Australia,61
+Niagara Peninsula,54
+Molise,14
+New Jersey,6
+Maury Sec,1
+Côtes du Roussillon Villages Caramany,1
+Irrouléguy,4
+Redwood Valley,35
+Friuli Aquileia,14
+Ile de Beauté,32
+Cucamonga Valley,13
+Pays d'Oc,124
+Gard,3
+Chianti,138
+Chianti Montespertoli,4
+Chianti Colli Senesi,40
+Bordeaux Clairet,23
+Fleurie,91
+Anjou Villages Brissac,9
+Fiddletown,39
+Bonnezeaux,5
+Bourgogne Hautes Côtes de Nuits,30
+Crémant d'Alsace,277
+Mâcon-Péronne,2
+Maranges,4
+Augusta,8
+Saint-Bris,15
+New Mexico,45
+Nevada,4
+Adelaide Plains,4
+Lessona,10
+Vino Spumante,92
+Boca,6
+Rivesaltes,13
+Charmes-Chambertin,17
+Valpolicella Superiore,43
+Valpolicella Classico Superiore,59
+Alto Valle del Río Negro,24
+Prosecco,165
+Paicines,31
+Condrieu,42
+Colline Pescaresi,17
+Sangiovese di Romagna Superiore,22
+Empordà,19
+Placer County,6
+Chianti Rufina,66
+Salice Salentino,45
+Mâcon-Chardonnay,14
+Ladoix,8
+Viré-Clessé,49
+Campo de Borja,140
+Mâcon-Fuissé,11
+Eden Valley,55
+Spain,61
+La Consulta,48
+Napa County-Sonoma County,26
+Solano County,30
+Colline Novaresi,15
+Adelaide,16
+Agrelo,50
+Veneto Orientale,6
+Vin de Pays des Cévennes,3
+Luberon,18
+Adelaida District,110
+Calabria,19
+Taurasi,118
+Eloro,5
+Faugères,18
+Crémant de Limoux,4
+Valdobbiadene Prosecco Superiore,180
+Irpinia,80
+Picpoul de Pinet,6
+Côtes du Marmandais,29
+Coteaux du Layon,15
+Cornas,34
+Chalone,71
+Savennières,21
+Ventoux,35
+Taburno,13
+Chinon,72
+Sebino,2
+Vouvray,153
+Columbia Gorge (OR),73
+Trebbiano d'Abruzzo,25
+Crémant de Loire,54
+Terra Alta,69
+Victoria,61
+Valdepeñas,41
+Friuli Colli Orientali,43
+Vin Santo del Chianti,4
+Vosne-Romanée,58
+Valdobbiadene Superiore di Cartizze,44
+Recioto della Valpolicella Classico,26
+Gavi di Gavi,3
+Roero Arneis,10
+Dolcetto di Dogliani,12
+Neuquén,39
+Moscato d'Asti,106
+Saint-Nicolas-de-Bourgueil,24
+Lake Chelan,51
+Roussette de Savoie,5
+Maremma Toscana,96
+Rattlesnake Hills,98
+Alta Langa,28
+El Dorado County,20
+Napa County,78
+Côtes de Nuits Villages,4
+Bourgogne Hautes Côtes de Beaune,18
+Saint-Aubin,46
+Marin County,55
+Barsac,50
+Conero,14
+Menfi,4
+Montilla-Moriles,18
+Río Negro Valley,20
+Pernand-Vergelesses,38
+Málaga,32
+Auxey-Duresses,13
+Savigny-lès-Beaune,134
+Mâcon-Verze,7
+Saint-Joseph,32
+Vin de Pays Var,17
+Frascati Superiore,12
+Volnay,78
+Fort Ross-Seaview,64
+Mt. Harlan,65
+Quarts de Chaume,9
+Lambrusco dell'Emilia,7
+Colli Aprutini,9
+Montepulciano d'Abruzzo Colline Teramane,17
+Valpolicella Superiore Ripasso,56
+Valpolicella Ripasso,29
+Cheverny,7
+Forlì,10
+Colli Martani,6
+Cienega Valley,22
+Temecula,26
+Ghemme,18
+Carignano del Sulcis,18
+Alghero,4
+Anjou,36
+Pécharmant,7
+Minervois La Liviniere,11
+Corbières,35
+Marsala,7
+Grand Valley,41
+Colorado,27
+Okanagan Valley,154
+Clarendon,23
+Côtes du Jura,28
+Corton Les Renardes,5
+Coteaux du Giennois,31
+Aloxe-Corton,34
+Rosso Conero,17
+Falerio,6
+Verdicchio dei Castelli di Jesi,25
+Rosso Piceno,21
+Hunter Valley,47
+La Rioja,11
+Central Ranges,6
+Coteaux Varois,21
+Val di Cornia Suvereto,18
+Orvieto Classico Superiore,25
+Vin de Pays du Val de Loire,9
+Cochise County,27
+Vino de la Tierra Altiplano de Sierra Nevada,3
+Pine Mountain-Cloverdale Peak,14
+Costers del Segre,27
+Verdicchio dei Castelli di Jesi Classico Superiore,72
+Custoza Superiore,1
+Veronese,40
+Val di Neto,14
+Big Valley District-Lake County,2
+San Antonio Valley,10
+Bourgogne,241
+Petit Chablis,29
+Sierra Pelona Valley,2
+Valpolicella,36
+San Luis Obispo,15
+Famatina Valley,10
+Bâtard-Montrachet,15
+Chevalier-Montrachet,14
+Atlas Peak,68
+Puisseguin Saint-Émilion,24
+Asprinio di Aversa,2
+Orvieto Classico,16
+Bardolino,14
+Orcia,14
+Limestone Coast,18
+Mâcon-Azé,6
+Pyrenees,12
+Prosecco Superiore di Cartizze,31
+High Valley,45
+Lambrusco Grasparossa di Castelvetro,31
+San Bernabe,9
+Vermentino di Gallura,15
+Ben Lomond Mountain,21
+Argentina,36
+Morey-Saint-Denis,19
+Missouri,25
+Southeastern New England,7
+Grand River Valley,10
+Sonoita,2
+Corton-Charlemagne,39
+Emilia,11
+King Valley,4
+Pommard,86
+Costa Toscana,5
+Albana di Romagna,7
+Grands-Echezeaux,11
+Moscadello di Montalcino,6
+Mazis-Chambertin,8
+The Hamptons, Long Island,19
+Vin de Pays du Comté Tolosan,10
+Somontano,68
+Tierra del Viños de Zamora,7
+Niagara Escarpment,6
+Central Victoria,6
+Bordeaux Côtes de Francs ,4
+Shenandoah Valley,32
+Savoie,25
+Palette,2
+Var,11
+Val de Loire,41
+Coteaux du Languedoc Pic Saint Loup,8
+Primitivo del Salento,7
+Tarragona,5
+Valpolicella Classico,54
+Hautes Côtes de Nuits,15
+La Clape,7
+Vin Santo di Montepulciano,6
+Santa Barbara-Monterey,3
+Gigondas,33
+Conca de Barberà,15
+Beamsville Bench,10
+Lessini Durello,7
+Bourgueil,24
+Saint-Croix-du-Mont,3
+Lake Erie North Shore,11
+Prosecco Treviso,44
+Côte de Brouilly,33
+Mâcon-Pierreclos,1
+Salina,8
+Sainte-Foy Bordeaux,6
+Saint-Chinian,22
+Crozes-Hermitage,47
+Southern Flinders Ranges,1
+Napa-Carneros,2
+Catalonia,4
+Pouilly-Vinzelles,18
+Lago di Corbara,4
+Macon-Bussières,4
+Colli Euganei,3
+Offida Pecorino,24
+Passito di Pantelleria,18
+Illinois,6
+Sant'Antimo,37
+Vin Santo del Chianti Rufina,5
+Corse Porto Vecchio,7
+Côtes du Roussillon Villages Tautavel,7
+Côtes du Roussillon Villages,19
+Aglianico del Taburno,13
+Castel del Monte,39
+Colli di Faenza,2
+Sangiovese di Romagna,8
+Mâcon,8
+Fixin,16
+Sforzato di Valtellina,16
+Corton,35
+Latricières-Chambertin,5
+Premieres Côtes de Blaye,10
+Montagny,35
+Vin de Pays des Côtes Catalanes,6
+Malibu-Newton Canyon,4
+Vino de la Tierra Contraviesa Alpujarra,1
+Mount Harlan,7
+Côtes du Tarn,28
+Terrazze Retiche di Sondrio,5
+Pla de Bages,9
+Côtes de Provence La Londe,14
+Coteaux du Layon Chaume,4
+Sonoma-Napa-Mendocino,1
+Dolcetto d'Acqui,2
+San Francisco Bay,14
+Nagambie Lakes,12
+Côtes de Bergerac,29
+Pacherenc du Vic Bilh,23
+Chelan County,4
+Riverina,6
+California Other,5
+Saddle Rock-Malibu,7
+Echézeaux,32
+La Grande Rue,2
+Clos de la Roche,9
+Vougeot,7
+Wrattonbully,6
+Mâcon-Vergisson,3
+Lambrusco di Sorbara,29
+Mâcon-Cruzille,9
+Moon Mountain District Sonoma County,19
+Collines Rhôdaniennes,8
+Loazzolo,1
+Humboldt County,9
+Clairette de Die Méthode Dioise Ancestrale,3
+Jurançon Sec,37
+Curtefranca,4
+Monteregio di Massa Marittima,6
+Napa-Sonoma-Marin,1
+Maury,2
+Muscat de Rivesaltes,6
+Montecucco,54
+Vin de Table Francais,6
+Santa Clara County,5
+Atlantique,5
+Muscadet,9
+Sierra de Salamanca,6
+Chignin-Bergeron,1
+Beaujolais Blanc,29
+Mâcon La Roche Vineuse,13
+Côtes du Roussillon Les Aspres,1
+Côtes du Roussillon,18
+Beaujolais-Leynes,4
+Côtes de Duras,5
+Fitou,5
+Puget Sound,4
+Chambertin Clos de Bèze,12
+Corton-Rognet,2
+Corton Vergennes,10
+Chapelle-Chambertin,5
+Dogliani,8
+Anjou Villages,6
+Cadillac,7
+Sable de Camargue,9
+Pago de Arínzano,6
+Beneventano,18
+Monti Lessini,2
+McLaren Vale-Adelaide Hills,5
+Colli Piacentini,10
+Martina,1
+Lacryma Christi del Vesuvio,21
+Côtes Catalanes,9
+Vin de Pays Cité de Carcassonne,5
+Solano County Green Valley,3
+Friuli Isonzo,45
+Penisola Sorrentina,3
+California-Oregon,1
+Clear Lake,28
+Guenoc Valley,11
+Terre del Volturno,31
+Coteaux d'Ancenis,1
+Cabernet de Saumur,1
+Utiel-Requena,58
+Soave Colli Scaligeri,5
+Napa County-Sonoma County-San Joaquin County,2
+Bourgogne Gamay,3
+Terre di Franciacorta,2
+Falanghina del Sannio,9
+Rosso di Toscana,9
+Côtes de Castillon,7
+Carneros-Napa Valley,23
+Lenswood,3
+Côte de Beaune,10
+Rosé d'Anjou,35
+St. David's Bench,3
+Coteaux du Vendômois,9
+Valpolicella Ripasso Classico,6
+Chianti Colli Fiorentini,21
+Swan Creek,12
+Tierra de León,7
+Mudgee,4
+Orange,7
+New South Wales,11
+Rosso Piceno Superiore,9
+Offida Passerina,5
+Recioto di Soave Classico,8
+Montlouis-sur-Loire,1
+Vin de Pays du Lot,6
+Venezie,18
+Riviera Ligure di Ponente,3
+Tulum Valley,17
+Pompeiano,9
+Epomeo,2
+Roccamonfina,5
+Marcillac,11
+Tierra de Castilla,8
+El Pomar District,7
+Galluccio,2
+Bourgogne Epineuil,4
+Colli di Salerno,5
+Tuolumne County,5
+Côtes-du-Ventoux,6
+Tarantino,1
+Santa Margarita Ranch,12
+Brachetto d'Acqui,8
+Saint-Mont,17
+Crémant de Bordeaux,6
+Mâcon-Lugny,18
+Dolcetto di Monferrato,1
+Malibu Coast,4
+Rully,35
+Pavia,4
+Asti,16
+Carmignano,19
+Bullas,1
+Bonnes-Mares,4
+McDowell Valley,1
+Rasteau,3
+Cilento,4
+Vin de Pays des Maures,2
+Yadkin Valley,5
+Costa d'Amalfi,7
+Iowa,4
+Premieres Côtes de Bordeaux,19
+Chianti Montalbano,6
+Elkton Oregon,26
+Bourgogne Aligoté,17
+Saint-Romain,7
+Lugana Superiore,4
+Napa-Mendocino-Sonoma-Marin,7
+Cesanese del Piglio,9
+Muscat de Saint-Jean de Minervois,1
+Banyuls,7
+Friuli Venezia Giulia,10
+Monterey-Santa Barbara,4
+Sonoma County-Monterey County-Napa County,5
+Rubicone,4
+Cévennes,2
+Vittoria Frappato,6
+Muscat de Beaumes de Venise,8
+Ribera del Júcar,3
+Sonoma-Mendocino,1
+Mâcon-Uchizy,4
+Colli di Luni,4
+Soave Classico Superiore,15
+Corton Grèves,1
+Barbera del Monferrato,13
+Copertino,5
+Alta Mesa,9
+Coteaux de Verdon,1
+Lirac,23
+Kelsey Bench-Lake County,3
+Valpolicella Valpantena Superiore,1
+San Lucas,5
+British Columbia,2
+Manchuela,10
+Biferno Rosso,3
+Sonoma County-Lake County,3
+France,5
+Colli Perugini,3
+Aleatico dell'Elba,1
+Corbières-Boutenac,9
+Vin Pétillant,1
+Ohio,1
+Vin de Pays du Val de Cesse,2
+Saussignac,1
+Limoux,18
+Paso Robles Highlands District,1
+Madrid,3
+Colli Tortonesi,8
+Barco Reale di Carmignano,4
+Vino de Mesa,3
+Sonoma County-Monterey County,4
+Pouilly-Loché,17
+Noto,7
+Campi Flegrei,18
+Bendigo,14
+Vin de Pays de L'Aude,3
+Terre di Chieti,25
+Buenos Aires,3
+Vin de Pays du Gard,4
+Colline Teatine,5
+Cerasuolo d'Abruzzo,7
+Pomino,12
+Côte Rôtie,31
+Vermont,3
+Garda Classico,4
+Montenetto di Brescia,2
+Lombardy,2
+Benaco Bresciano,1
+Musigny,2
+Chambertin,13
+Clos Saint-Denis,5
+Malvasia delle Lipari,7
+Côtes de Thongue,2
+Côtes du Frontonnais,1
+Ventura County,3
+Marca Trevigiana,8
+Colli di Conegliano,5
+Chianti Colli Aretini,3
+Monterrei,9
+Mendocino-Lake,3
+Bramaterra,11
+Monterey-Santa Cruz,2
+Teroldego Rotaliano,8
+North Carolina,6
+Cortese di Gavi,4
+York Mountain,9
+Touraine Amboise,2
+Colli Bolognesi,4
+Lambrusco Reggiano,5
+Emilia-Romagna,11
+Château-Chalon,1
+Mâcon-Mancey,1
+Irancy,3
+Cigales,26
+Assisi,1
+Savennières-Roche-Aux-Moines,2
+Jujuy,1
+Montescudaio,10
+Galatina,5
+Cirò,13
+Vin de Pays des Portes de Méditerranée,3
+Alcamo,7
+Soave Superiore,9
+Brulhois,2
+Mâcon-Loché,6
+Mâcon-Vinzelles,7
+Chianti Superiore,24
+Rosazzo,5
+Orvieto,15
+Verdicchio di Matelica,13
+Columbia Valley-Walla Walla Valley,3
+Gutturnio Colli Piacentini,3
+Valtènesi,2
+Madera,12
+Ardèche,4
+Barbera del Monferrato Superiore,11
+Mâcon-Charnay,3
+Sonoma,5
+Mount Barker,5
+Corton-Pougets,2
+Cérons,4
+Coteaux du Layon Saint Aubin,3
+Gioia del Colle,4
+Kentucky,1
+Prince Edward County,1
+San Francisco Bay-Livermore Valley,8
+Extremadura,11
+Vino da Tavola,16
+Southern Fleurieu,2
+Clements Hills,16
+Vinos de Madrid,10
+Pouilly-sur-Loire,2
+Custoza,2
+Contea di Sclafani,6
+Dolcetto di Diano d'Alba,3
+Vin de Pays de la Méditerranée,8
+Vin de Pays de l'Ile de Beauté,2
+Nuragus di Cagliari,3
+Blanquette de Limoux,4
+Asolo Prosecco Superiore,15
+Venezia,7
+Sonoma County-San Joaquin County,3
+Clairette de Bellegarde,1
+Provincia di Pavia,2
+Montepulciano d'Abruzzo Cerasuolo,5
+Colline Lucchesi,1
+Emporadà-Costa Brava,2
+Fara,2
+Lison-Pramaggiore,5
+Côtes du Luberon,4
+Lambrusco Salamino di Santa Croce,1
+Recioto della Valpolicella,4
+Canon-Fronsac,9
+Western Connecticut Highlands,3
+River Junction,8
+Passito di Noto,2
+Vin de Pays des Alpilles,3
+Grampians,3
+Currency Creek,1
+Cour-Cheverny,3
+Muscadet Sèvre et Maine Clisson,4
+Amarone della Valpolicella Valpantena,5
+Aude Hauterive,4
+Ribera del Guadiana,6
+Toledo,1
+Monterey-Santa Barbara-Sonoma,3
+Valtellina,5
+Vi de la Terra Mallorca,11
+Abruzzo,6
+Columbia Valley,2
+Piccadilly Valley,5
+Lake County-Mendocino County,5
+Côte de Beaune-Villages,7
+Oregon Other,3
+Meursault-Blagny,4
+Sonoma County-Monterey County-Santa Barbara County,6
+Yamhill County,2
+Mendocino-Lake County-Napa,2
+Beechworth,2
+Vin de Pays de Vaucluse,7
+Montecarlo,3
+Monterey-San Luis Obispo-Santa Barbara,1
+Contessa Entellina,7
+Moscato di Noto,3
+Diano d'Alba,1
+Vino de la Tierra del Bajo Aragón,5
+Chignin,2
+Controguerra,7
+San Carlos,4
+Manzanilla-Sanlúcar de Barrameda,5
+Valli di Porto Pino,5
+Falanghina del Beneventano,5
+Swan Hill,2
+Falerio dei Colli Ascolani,3
+Erbaluce di Caluso,2
+Mamertino,2
+Mâcon Solutré,3
+Civitella d'Agliano,2
+Landes,1
+Mâcon-Davayé,4
+Pedernal Valley,2
+Breganze,1
+Tehama County,1
+Siracusa,2
+Vin de Pays du Jardin de la France,2
+Ischia,4
+Murray-Darling,1
+Saint-Péray,6
+Castilla La Mancha,2
+Muscadet Coteaux de la Loire,3
+Pays de Loire,1
+Carema,3
+Valpolicella Valpantena,1
+Ramona Valley,2
+Napa County-Lake County,1
+Prosecco di Valdobbiadene Superiore,3
+Colli Etruria Centrale,2
+Vin de Pays de l'Atlantique,1
+Côtes de Forez,1
+Monthélie,4
+Clos de Lambrays,4
+Clos de Tart,3
+Romanée-St.-Vivant,5
+Arizona,12
+Short Hills Bench,3
+Vin Doux Naturel Rasteau,2
+Aglianico del Beneventano,2
+Vin de Pays de la Haute Vallée du Gassac,1
+Zonda Valley,3
+Barbera di Piemonte,2
+Périgord,3
+Lanzarote,4
+Châteaumeillant,2
+Napa,2
+Erice,11
+Tuscany,4
+Similkameen Valley,4
+Bourgogne Côtes d’Auxerre,3
+Nardò,3
+Donnici,4
+Cabardes,2
+Dolcetto di Dogliani Superiore,2
+Bergerac Rosé,4
+Lamezia,1
+Trentino Superiore,1
+Grave del Friuli,1
+Hautes Cotes de Beaune,3
+Mâcon-Prissé,2
+Vino de la Tierra de Cádiz,4
+Central Valley,4
+Vin Santo di Carmignano,1
+Bienvenues Bâtard-Montrachet,2
+Ramandolo,2
+Vino de la Tierra de Zamora,1
+Lot,6
+Garda,3
+Napa-Monterey-Mendocino,1
+Brindisi,1
+Western Plains,2
+Vino de la Tierra de Castelló,4
+Kangaroo Island,2
+Burgundy,1
+Casorzo,2
+Rosso di Cerignola,1
+Dolcetto d'Asti,2
+Sant' Agata dei Goti,2
+McLaren Vale-Langhorne Creek,1
+Mentrida,2
+Monreale,3
+Monferrato Bianco,1
+Béarn,2
+Torgiano Rosso Riserva,3
+Arribes del Duero,1
+Finca Élez,1
+Moulis,1
+Lime Kiln Valley,2
+Mâcon Chaintré,5
+Vino da Mesa de Toledo,2
+Moscato di Pantelleria,1
+Amador-Napa,2
+Hilltops,2
+Polk County,2
+Barossa-Langhorne Creek,1
+Alpilles,3
+Currency Creek-McLaren Vale,1
+Coteaux du Lyonnais,1
+Sardinia,5
+Gippsland,1
+Strathbogie Ranges,3
+Colline Teramane,1
+Vino de la Tierra Ribera del Gállego-Cinco Villas,1
+Monterey County-Napa County-Sonoma County,2
+Côte Roannaise,4
+Côtes de Thau,4
+Antelope Valley of the California High Desert,4
+Moscato di Trani,2
+Napa Valley-Paso Robles,1
+Clare Valley-Coonawarra,1
+Falanghina del Molise,1
+Corton-Bressandes,3
+Medrano,1
+Lake County-Sonoma County,2
+Valpolicella Ripasso Valpantena,2
+Gaillac Doux,6
+Circeo,2
+Gundagai,3
+Vin de Pays des Coteaux de Bessilles,1
+Mount Barker & Margaret River,1
+Mazoyeres-Chambertin,1
+Altos de Mendoza,1
+Coteaux du Languedoc-Pézenas,1
+Cirò Classico,5
+Bardolino Classico Superiore,2
+Vino de Calidad de Tierras de León,1
+Cabernet d'Anjou,3
+Valpolicella Ripasso Valpantena Superiore,3
+McLaren Vale-Padthaway,1
+Mendocino-Amador,1
+Vallée du Paradis,1
+San Rafael,2
+Sovana,1
+Vesuvio,2
+Dolcetto d'Alba Superiore,1
+Tumbarumba,2
+Henty,1
+Côtes de Saint-Mont,1
+Laudun,5
+Saint-Chinian-Roquebrun,1
+San Martino della Battaglia,1
+Geelong,1
+Corton Perrières,1
+Alpine Valleys,2
+Chianti Colli Pisani,2
+Coteaux du Layon Beaulieu,3
+Primitivo del Tarantino,1
+Napa-Amador,1
+Napa County-Sonoma County-Lake County,4
+Vin de Pays de L'Herault,2
+Montello e Colli Asolani,2
+Nasco di Cagliari,1
+Charentais,2
+Montefalco,2
+Santa Cruz County,2
+Sonoma-Santa Barbara-Mendocino,1
+Napa-Mendocino-Sonoma,3
+Vin de Pays de France,1
+Massachusetts,1
+Canada,1
+Frascati,1
+Alta Valle della Greve,4
+Southern Highlands,1
+La Romanée,4
+Aglianico d'Irpinia,1
+Lake-Sonoma-Napa,1
+Vin de Pays de Montferrand,1
+Isle St. George,1
+Clairette de Die,1
+Clare Valley-Eden Valley,1
+Gutturnio Classico Superiore,1
+Strevi,1
+Australia-New Zealand,1
+Riverland,1
+Sardon de Duero,1
+Texoma,1
+Capay Valley,3
+Fleurieu Peninsula,3
+Cacc’e Mmitte di Lucera,1
+Sonoma-Napa-Monterey,1
+Collioure,1
+Saint Guilhem le Désert,1
+Catalanesca del Monte Somma,1
+Hawaii,1
+San Gimignano,2
+Bourgogne Vézelay,1
+Vino de Calidad de Valtiendas,2
+Mitterberg,1
+Rivesaltes Rosé,1
+Offida Rosso,1
+Côtes de Montravel,1
+Todi,1
+Colli del Limbara,1
+Catamarca,1
+Langhorne Creek-Limestone Coast,1
+Coda di Volpe d'Irpinia,1
+Squinzano,1
+Barossa-Adelaide Hills,1
+Monterey County-Napa County,1
+Est! Est!! Est!!! di Montefiascone,1
+Terrasses du Larzac,1
+Apremont,1
+San Diego County,2
+Sonoma-Napa-Lake,1
+Sonoma County-Santa Barbara County,1
+Del Veneto,1
+Bardolino Superiore,1
+Paestum,1

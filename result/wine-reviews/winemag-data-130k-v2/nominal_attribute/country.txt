@@ -1,0 +1,45 @@
+Feature Name: country
+Value Num: 43
+Italy,19540
+Portugal,5691
+US,54504
+Spain,6645
+France,22093
+Germany,2165
+Argentina,3800
+Chile,4472
+Australia,2329
+Austria,3345
+South Africa,1401
+New Zealand,1419
+Israel,505
+Hungary,146
+Greece,466
+Romania,120
+Mexico,70
+Canada,257
+Turkey,90
+Czech Republic,12
+Slovenia,87
+Luxembourg,6
+Croatia,73
+Georgia,86
+Uruguay,109
+England,74
+Lebanon,35
+Serbia,12
+Brazil,52
+Moldova,59
+Morocco,28
+Peru,16
+India,9
+Bulgaria,141
+Cyprus,11
+Armenia,2
+Switzerland,7
+Bosnia and Herzegovina,2
+Ukraine,14
+Slovakia,1
+Macedonia,12
+China,1
+Egypt,1

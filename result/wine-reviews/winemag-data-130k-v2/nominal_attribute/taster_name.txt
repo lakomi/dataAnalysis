@@ -1,0 +1,21 @@
+Feature Name: taster_name
+Value Num: 19
+Kerin O’Keefe,10776
+Roger Voss,25514
+Paul Gregutt,9532
+Alexander Peartree,415
+Michael Schachner,15134
+Anna Lee C. Iijima,4415
+Virginie Boone,9537
+Matt Kettmann,6332
+Sean P. Sullivan,4966
+Jim Gordon,4177
+Joe Czerwinski,5147
+Anne Krebiehl MW,3685
+Lauren Buzzeo,1835
+Mike DeSimone,514
+Jeff Jenssen,491
+Susan Kostrzewa,1085
+Carrie Dykes,139
+Fiona Adams,27
+Christina Pickard,6

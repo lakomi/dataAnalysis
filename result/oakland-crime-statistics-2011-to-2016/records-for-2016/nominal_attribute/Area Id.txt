@@ -1,0 +1,10 @@
+Feature Name: Area Id
+Value Num: 8
+P1,41419
+P3,47425
+P2,19610
+POU,2173
+PCW,194
+TEC,4
+JLS,1
+WAG,1

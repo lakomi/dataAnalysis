@@ -1,0 +1,709 @@
+Feature Name: variety
+Value Num: 707
+White Blend,2360
+Portuguese Red,2466
+Pinot Gris,1455
+Riesling,5189
+Pinot Noir,13272
+Tempranillo-Merlot,7
+Frappato,39
+Gewürztraminer,1012
+Cabernet Sauvignon,9472
+Nerello Mascalese,117
+Chardonnay,11753
+Malbec,2652
+Tempranillo Blend,588
+Meritage,260
+Red Blend,8946
+Merlot,3102
+Nero d'Avola,365
+Chenin Blanc,591
+Gamay,1025
+Sauvignon Blanc,4967
+Viognier-Chardonnay,12
+Primitivo,222
+Catarratto,29
+Inzolia,30
+Petit Verdot,269
+Monica,4
+Bordeaux-style White Blend,1066
+Grillo,137
+Sangiovese,2707
+Cabernet Franc,1353
+Champagne Blend,1396
+Bordeaux-style Red Blend,6915
+Aglianico,359
+Petite Sirah,770
+Touriga Nacional,200
+Carmenère,575
+Albariño,477
+Petit Manseng,57
+Rosé,3564
+Zinfandel,2714
+Vernaccia,138
+Rosato,103
+Grüner Veltliner,1345
+Viognier,996
+Vermentino,232
+Grenache Blanc,131
+Syrah,4142
+Nebbiolo,2804
+Shiraz-Cabernet Sauvignon,39
+Pinot Blanc,442
+Alsace white blend,51
+Barbera,721
+Rhône-style Red Blend,1471
+Portuguese White,1159
+Graciano,43
+Tannat-Cabernet,31
+Sauvignon,316
+Sangiovese Grosso,751
+Torrontés,250
+Prugnolo Gentile,43
+G-S-M,181
+Verdejo,294
+Fumé Blanc,70
+Furmint,55
+Pinot Bianco,154
+Bonarda,105
+Shiraz,836
+Montepulciano,215
+Moscato,358
+Grenache,651
+Ugni Blanc-Colombard,9
+Syrah-Viognier,18
+Blaufränkisch,232
+Friulano,122
+Assyrtico,43
+Carignan-Grenache,9
+Sagrantino,104
+Savagnin,22
+Cabernet Sauvignon-Syrah,102
+Prosecco,236
+Vignoles,11
+Sparkling Blend,2153
+Muscat,132
+Muscadelle,10
+Shiraz-Viognier,38
+Garganega,270
+Pinot Grigio,1052
+Tempranillo,1810
+Zierfandler,16
+Cortese,73
+Mencía,178
+Zweigelt,209
+Melon,280
+Rhône-style White Blend,425
+Vidal,11
+Cannonau,31
+Verdelho,65
+Marsanne,65
+Scheurebe,25
+Kerner,27
+Syrah-Grenache,58
+Dolcetto,180
+Vilana,4
+Glera,709
+Viura,107
+Garnacha Tintorera,8
+Pinot Nero,181
+Roter Veltliner,13
+Pinotage,137
+Sémillon,135
+Pinot Noir-Gamay,18
+Antão Vaz,17
+Cabernet Sauvignon-Carmenère,43
+Verdejo-Viura,22
+Verduzzo,6
+Verdicchio,164
+Silvaner,39
+Colombard,24
+Carricante,37
+Sylvaner,53
+Fiano,151
+Früburgunder,1
+Sousão,8
+Roussanne,168
+Avesso,6
+Cinsault,41
+Chinuri,3
+Tinta Miúda,3
+Muscat Blanc à Petits Grains,3
+Portuguese Sparkling,65
+Monastrell,147
+Xarel-lo,21
+Greco,121
+Trebbiano,51
+Corvina, Rondinella, Molinara,619
+Port,668
+Chenin Blanc-Chardonnay,33
+Insolia,33
+Merlot-Malbec,6
+Ribolla Gialla,87
+Cabernet Sauvignon-Merlot,117
+Duras,7
+Weissburgunder,47
+Roditis,4
+Traminer,39
+Papaskarasi,3
+Tannat-Syrah,6
+Marsanne-Roussanne,22
+Charbono,26
+Merlot-Argaman,1
+Prié Blanc,6
+Sherry,100
+Provence red blend,64
+Tannat,178
+Zibibbo,31
+Falanghina,89
+Garnacha,326
+Negroamaro,80
+Mourvèdre,229
+Syrah-Cabernet,15
+Müller-Thurgau,46
+Pinot Meunier,45
+Cabernet Sauvignon-Sangiovese,8
+Austrian Red Blend,62
+Teroldego,32
+Pansa Blanca,14
+Muskat Ottonel,23
+Sauvignon Blanc-Semillon,68
+Claret,33
+Semillon-Sauvignon Blanc,53
+Bical,13
+Moscatel,57
+Rosado,77
+Viura-Chardonnay,13
+Baga,29
+Malvasia Bianca,16
+Gelber Muskateller,37
+Malbec-Merlot,96
+Monastrell-Syrah,21
+Malbec-Tannat,16
+Malbec-Cabernet Franc,11
+Turbiana,157
+Refosco,11
+Alvarinho,137
+Manzoni,8
+Aragonês,10
+Agiorgitiko,63
+Malagousia,12
+Assyrtiko,18
+Ruché,12
+Welschriesling,25
+Tinta de Toro,166
+Cabernet Moravia,2
+Rieslaner,6
+Traminette,10
+Chambourcin,18
+Nero di Troia,19
+Lambrusco di Sorbara,19
+Cesanese,2
+Feteasca Neagra,7
+Lagrein,80
+Tinta Fina,11
+St. Laurent,92
+Marsanne-Viognier,2
+Cabernet Sauvignon-Shiraz,27
+Syrah-Cabernet Sauvignon,37
+Gewürztraminer-Riesling,7
+Pugnitello,3
+Cerceal,3
+Touriga Nacional Blend,19
+Austrian white blend,80
+Tocai,10
+Tinta Roriz,11
+Chardonnay-Viognier,35
+Fernão Pires,36
+Cabernet Franc-Cabernet Sauvignon,16
+Grenache-Syrah,50
+Seyval Blanc,16
+Muscat Canelli,36
+Cabernet Merlot,21
+Tempranillo-Cabernet Sauvignon,53
+Arinto,77
+Aragonez,10
+Merlot-Cabernet Franc,23
+Syrah-Petite Sirah,16
+Cabernet Blend,80
+Maturana,6
+Pecorino,54
+Rotgipfler,26
+Kinali Yapincak,1
+Cabernet Franc-Carmenère,2
+Magliocco,4
+Gamay Noir,23
+Sauvignon Gris,14
+Spätburgunder,72
+Picpoul,18
+Vidal Blanc,55
+Albanello,1
+White Port,2
+Arneis,86
+Malvasia,44
+Plavac Mali,17
+Lemberger,36
+Saperavi,37
+Altesse,8
+Blanc du Bois,6
+Provence white blend,36
+Nosiola,8
+Dornfelder,27
+Roussanne-Viognier,13
+Ojaleshi,1
+Godello,81
+Mondeuse,15
+Perricone,10
+Pedro Ximénez,42
+Auxerrois,27
+Syrah-Merlot,7
+Albana,23
+Muskat,4
+Lambrusco,50
+Cabernet Sauvignon-Malbec,18
+Tinto Fino,100
+Malbec-Cabernet Sauvignon,58
+Moschofilero,36
+Grechetto,15
+Encruzado,39
+Carignano,15
+Cabernet Franc-Merlot,20
+Torbato,2
+Syrah-Petit Verdot,3
+Garnacha Blanca,38
+Pallagrello,10
+Morava,1
+Syrah-Mourvèdre,20
+Aleatico,5
+Carcajolu,1
+Kisi,6
+Shiraz-Grenache,15
+Palomino,18
+Grenache-Carignan,17
+Nascetta,7
+Siria,12
+Malbec-Syrah,20
+Asprinio,3
+Feteascǎ Regalǎ,6
+Lambrusco Grasparossa,18
+Marselan,4
+Tocai Friulano,22
+Schiava,23
+Alfrocheiro,16
+Chardonnay-Semillon,7
+Corvina,22
+Norton,16
+Alicante Bouschet,50
+Tokaji,24
+Moscadello,6
+Cabernet Sauvignon-Tempranillo,15
+Carignan,77
+Loureiro-Arinto,1
+Cabernet-Syrah,13
+Sauvignon Blanc-Chardonnay,8
+Symphony,5
+Edelzwicker,4
+Madeira Blend,3
+Black Muscat,11
+Grenache Noir,3
+Durella,9
+Xinomavro,33
+Tinto del Pais,18
+Merlot-Cabernet Sauvignon,35
+Cercial,1
+Johannisberg Riesling,9
+Petite Verdot,30
+Passerina,24
+Valdiguié,6
+Colombard-Sauvignon Blanc,18
+Kangoun,1
+Loureiro,29
+Posip,8
+Uva di Troia,13
+Gros and Petit Manseng,51
+Jacquère,24
+Kalecik Karasi,15
+Karasakiz,1
+Mourvèdre-Syrah,3
+Negrette,17
+Zierfandler-Rotgipfler,5
+Clairette,3
+Raboso,16
+País,1
+Mauzac,7
+Pinot Auxerrois,13
+Chenin Blanc-Sauvignon Blanc,6
+Diamond,1
+Marzemino,3
+Tinta Barroca,5
+Chardonnay-Sauvignon Blanc,6
+Castelão,34
+Trebbiano Spoletino,7
+Teran,7
+Trepat,10
+Freisa,2
+Neuburger,11
+Sämling,5
+Chasselas,8
+Hárslevelü,2
+Trincadeira,26
+Merlot-Tannat,3
+Rkatsiteli,33
+Melnik,3
+Siegerrebe,1
+Trousseau Gris,3
+Grenache Blend,10
+Gros Manseng,25
+Portuguese Rosé,16
+Brachetto,15
+Mantonico,7
+Ekigaïna,1
+Muskateller,5
+Aligoté,30
+Sangiovese Cabernet,4
+Touriga Nacional-Cabernet Sauvignon,28
+Muscat Blanc,12
+Argaman,3
+Viognier-Roussanne,7
+Pallagrello Bianco,5
+Bobal,23
+Malvasia Istriana,9
+Cabernet Sauvignon-Cabernet Franc,21
+Baco Noir,16
+Veltliner,4
+Tempranillo-Tannat,1
+Morillon,7
+Touriga Franca,7
+Picolit,27
+Barbera-Nebbiolo,1
+Prieto Picudo,15
+Gaglioppo,15
+Tokay,7
+Sacy,2
+Piedirosso,20
+Piquepoul Blanc,1
+Mansois,4
+Chardonnay-Sauvignon,6
+Tempranillo-Garnacha,32
+Carmenère-Cabernet Sauvignon,8
+Chenin Blanc-Viognier,13
+Susumaniello,6
+Vitovska,3
+Orange Muscat,20
+Grauburgunder,15
+Carignane,30
+Moscatel Roxo,6
+Tannat-Merlot,11
+Nerello Cappuccio,6
+Counoise,12
+Macabeo,23
+Mazuelo,4
+Sauvignon-Sémillon,1
+Tinta del Pais,2
+Vranec,4
+Mavrud,7
+Cesanese d'Affile,8
+Moscato Giallo,16
+Debit,3
+Verdil,1
+Cabernet,11
+Verduzzo Friulano ,3
+Treixadura,3
+Loin de l'Oeil,9
+Coda di Volpe,18
+Grenache-Mourvèdre,6
+Forcallà,1
+Viura-Verdejo,2
+Bombino Bianco,2
+Pinot-Chardonnay,6
+Syrah-Tempranillo,7
+Cabernet Sauvignon-Barbera,1
+Merlot-Cabernet,11
+Muscat d'Alexandrie,3
+Jaen,7
+Tinta del Toro,3
+Timorasso,5
+Pigato,2
+Sangiovese-Cabernet Sauvignon,6
+Shiraz-Cabernet,3
+Viognier-Gewürztraminer,2
+Prunelard,1
+Sauvignon Blanc-Chenin Blanc,4
+Gros Plant,1
+Malbec-Petit Verdot,4
+Colombard-Ugni Blanc,8
+Grignolino,2
+Garnacha-Syrah,13
+Rufete,2
+Tempranillo-Shiraz,8
+Mtsvane,5
+Chardonnay-Pinot Gris,1
+Marawi,3
+Chardonnay-Pinot Blanc,5
+Mataro,10
+Tinta Cao,2
+Blauer Portugieser,2
+Ugni Blanc,3
+Groppello,2
+Semillon-Chardonnay,5
+Irsai Oliver,1
+Alvarelhão,2
+Poulsard,3
+Grenache-Shiraz,4
+Baga-Touriga Nacional,2
+Carineña,5
+Pignoletto,4
+Muscatel,3
+Mavrodaphne,5
+Ciliegiolo,3
+Viognier-Grenache Blanc,3
+Greco Bianco,6
+Cabernet Sauvignon-Merlot-Shiraz,3
+Sciaccerellu,5
+Zelen,1
+Alicante,5
+Emir,4
+Rosenmuskateller,2
+Tsolikouri,1
+Narince,7
+Malbec-Cabernet,3
+Touriga,3
+Grecanico,9
+Carmenère-Syrah,7
+Madeleine Angevine,2
+Mavroudi,1
+Pinot Blanc-Pinot Noir,1
+Muscat Hamburg,4
+Tempranillo Blanco,9
+Casavecchia,5
+Pinot Gris-Gewürztraminer,1
+White Riesling,13
+Tinto Velasco,1
+Hondarrabi Zuri,17
+Nuragus,3
+Xynisteri,2
+Kadarka,2
+Sauvignon Musqué,1
+Roussanne-Marsanne,5
+Incrocio Manzoni,3
+Terrantez,1
+Bual,7
+Okuzgozu,8
+Rivaner,3
+Doña Blanca,1
+Graševina,1
+Lambrusco Salamino,3
+Sangiovese-Syrah,5
+Tannat-Cabernet Franc,16
+Thrapsathiri,1
+Fer Servadou,4
+Mission,7
+Kekfrankos,10
+Cococciola,1
+Blauburgunder,1
+Marquette,2
+Romorantin,3
+Verdejo-Sauvignon Blanc,5
+Braucol,5
+Malvasia-Viura,3
+Savatiano,5
+Cabernet Franc-Malbec,4
+Pallagrello Nero,5
+Rebula,3
+Vespolina,2
+Shiraz-Malbec,3
+Rebo,2
+Macabeo-Chardonnay,4
+Tempranillo-Malbec,1
+Tamjanika,2
+Trousseau,6
+Bacchus,2
+Syrah-Malbec,1
+Syrah-Cabernet Franc,5
+Macabeo-Moscatel,1
+Cariñena-Garnacha,2
+Plyto,2
+Códega do Larinho,4
+Sideritis,1
+Çalkarası,2
+Azal,3
+Moscatel Graúdo,2
+Viosinho,5
+Moschofilero-Chardonnay,1
+Paralleda,1
+Rara Neagra,2
+Malvasia di Candia,2
+Maria Gomes,2
+Molinara,1
+Malvar,2
+Airen,3
+Erbaluce,3
+Muscat of Alexandria,3
+Verdosilla,1
+Abouriou,3
+Pinot Noir-Syrah,3
+Nielluciu,3
+Malbec-Bonarda,5
+Vespaiolo,1
+Malbec-Carménère,1
+Biancolella,1
+Sauvignon Blanc-Verdejo,4
+Aidani,1
+Garnacha-Monastrell,3
+Vinhão,4
+Souzao,3
+Roter Traminer,6
+Moscatel de Alejandría,3
+Rolle,4
+Tinta Francisca,3
+Malvasia Nera,6
+Orangetraube,1
+Riesling-Chardonnay,1
+Žilavka,1
+Portuguiser,2
+Listán Negro,3
+Pinotage-Merlot,1
+Muscadine,2
+Maria Gomes-Bical,1
+Grolleau,3
+Zlahtina,2
+Syrah-Grenache-Viognier,1
+Jacquez,3
+Gouveio,2
+Canaiolo,3
+Carignan-Syrah,3
+Bombino Nero,1
+Chardonnay-Riesling,1
+Malagouzia-Chardonnay,1
+Mavrotragano,1
+Bovale,4
+Frankovka,1
+Shiraz-Roussanne,1
+Cabernet-Shiraz,2
+Syrah-Carignan,4
+Elbling,4
+Gragnano,2
+Garnacha Blend,2
+Pinot Blanc-Chardonnay,4
+Schwartzriesling,1
+Petit Meslier,1
+Bastardo,2
+Vidadillo,1
+Misket,1
+Chardonnay Weissburgunder,2
+Other,2
+Robola,4
+Merlot-Shiraz,1
+Malagouzia,4
+Folle Blanche,1
+Malbec Blend,3
+Merlot-Syrah,2
+Tamianka,1
+Cabernet Pfeffer,2
+Morio Muskat,2
+Rabigato,2
+Babić,4
+Roviello,2
+Yapincak,2
+Sauvignonasse,1
+Viognier-Marsanne,3
+Mandilaria,2
+Meseguera,1
+Alvarinho-Chardonnay,5
+Saperavi-Merlot,2
+Pinot Blanc-Viognier,1
+Teroldego Rotaliano,1
+Biancu Gentile,1
+Garnacha-Tempranillo,6
+Xinisteri,1
+Sauvignon Blanc-Sauvignon Gris,1
+Trebbiano di Lugana,3
+Albarossa,2
+Ryzlink Rýnský,1
+Verdeca,5
+Cabernet Sauvignon Grenache,2
+Tămâioasă Românească,2
+Black Monukka,2
+Merlot-Grenache,1
+Vranac,1
+Tempranillo-Syrah,2
+Chardonel,1
+Silvaner-Traminer,1
+Uvalino,2
+Merseguera-Sauvignon Blanc,1
+Cabernet-Malbec,1
+Boğazkere,4
+Gelber Traminer,1
+Vermentino Nero,1
+Cayuga,2
+Tinta Amarela,1
+Tinta Negra Mole,1
+Moscato Rosa,2
+Chelois,2
+Sauvignon Blanc-Assyrtiko,1
+Muscadel,1
+Shiraz-Tempranillo,2
+Roussanne-Grenache Blanc,1
+Biancale,1
+Ansonica,2
+Syrah-Bonarda,1
+Durif,2
+Franconia,1
+Malbec-Tempranillo,2
+Nasco,2
+Monastrell-Petit Verdot,2
+Sirica,2
+Vital,1
+Espadeiro,1
+Apple,2
+Pinot Grigio-Sauvignon Blanc,1
+Blatina,1
+Karalahna,1
+Feteasca,2
+Sercial,1
+Valvin Muscat,1
+Malvasia Fina,2
+Roditis-Moschofilero,1
+St. Vincent,1
+Chancellor,2
+Premsal,1
+Jampal,1
+Tokay Pinot Gris,1
+Colorino,1
+Picapoll,1
+Blauburger,1
+Tinta Madeira,1
+Centesimino,1
+Grenache Gris,1
+Trajadura,1
+Merlot-Petite Verdot,1
+Ramisco,1
+Catalanesca,1
+Garnacha-Cabernet,1
+Garnacha-Cariñena,1
+Gamza,1
+Cabernet Franc-Lemberger,2
+Chardonnay-Albariño,2
+Shiraz-Mourvèdre,3
+Mavrokalavryta,1
+Favorita,1
+Babosa Negro,1
+Tintilia ,1
+Dafni,1
+Petit Courbu,1
+Kotsifali,1
+Parraleta,1
+Moscato di Noto,1
+Roscetto,1
+Torontel,1
+Otskhanuri Sapere,1
+Viognier-Valdiguié,1
+Trollinger,2
+Tsapournakos,1
+Francisa,1
+Kuntra,1
+Pignolo,1
+Caprettone,1
+Ondenc,1
+Athiri,1
+Bobal-Cabernet Sauvignon,1
