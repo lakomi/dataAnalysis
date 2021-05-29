@@ -1,7 +1,0 @@
-Feature Name: price
-Min Num: 4.0
-1/4 Quartile Num: 16.0
-Median Num: 24.0
-3/4 Quartile Num: 40.0
-Max Num: 2300.0
-Missing Num: 13695

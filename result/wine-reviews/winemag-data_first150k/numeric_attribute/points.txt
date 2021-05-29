@@ -1,7 +1,0 @@
-Feature Name: points
-Min Num: 80
-1/4 Quartile Num: 86.0
-Median Num: 88.0
-3/4 Quartile Num: 90.0
-Max Num: 100
-Missing Num: 0

@@ -1,7 +1,0 @@
-Feature Name: Priority
-Min Num: 1
-1/4 Quartile Num: 2.0
-Median Num: 2.0
-3/4 Quartile Num: 2.0
-Max Num: 2
-Missing Num: 0
